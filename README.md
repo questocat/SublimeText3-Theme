@@ -12,9 +12,11 @@
 一、首先，安装 Material Theme
 1. Press ⌘/Ctrl + ⇧ + P to open the command palette.
 2. Type `Package Control: Install Package` and press enter. Then search for `Material Theme`.
+
 二、添加新的配色文件
 这里我以 Primer Dark 这个主题为例，在配置主题之前
 首先我将 Primer - Light.tmTheme 主题文件添加到 Packages 中。为方便管理，我将该文件放在了新建的 CustomColorScheme 文件夹下。
+
 三、配置
 主题和配色安装完后，我们在 Material Theme 主题下，选择刚刚新添加的 Color Scheme 了，但是仅仅是主面板的颜色改变了，左侧菜单栏和面板头部的颜色还没修改。这个时候我们就需要 PackageResourceViewer 这个工具了，他的安装方式同其他插件一样，在 Package Control 中即可安装。
 PackageResourceViewer 安装完毕后，在命令面板中输入：PackageResourceViewer:Open Resource 

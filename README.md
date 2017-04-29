@@ -4,7 +4,7 @@
 #### 如何获取 Theme
 [Material Theme](http://equinsuocha.io/material-theme/#/default) 个人比较喜欢这款主题，简洁漂亮，下面是它的截图。当然你也可以从[这里](https://packagecontrol.io/browse/labels/theme) 找到其他的主题。
 
-<img src="https://github.com/emanci/SublimeText3-Theme/blob/master/material-theme.png" width = "350" alt="material-theme" align=center />
+<img src="https://github.com/emanci/SublimeText3-Theme/blob/master/material-theme.png" width = "450" alt="material-theme" align=center />
 
 #### 如何获取 Color Scheme
 实际上，我们下载的主题包中就包含了 Color Scheme，但是我们有其他的选择，我们可以从[这个网址](http://tmtheme-editor.herokuapp.com)获取自己喜欢的主题，当然也可以在这个网站按照自己的意愿制作喜欢的主题。制作完毕之后将生成的 xxx.tmTheme 文件添加到 sublime text 的 Packages 文件夹中(Preferences -> Browsr Packages)。
@@ -43,4 +43,4 @@ PackageResourceViewer 安装完毕后，在命令面板中输入：PackageResour
 
 整个配置完成后，效果如下
 
-<img src="https://github.com/emanci/SublimeText3-Theme/blob/master/primer-dark.png" width = "350" alt="primer-dark" align=center />
+<img src="https://github.com/emanci/SublimeText3-Theme/blob/master/primer-dark.png" width = "450" alt="primer-dark" align=center />

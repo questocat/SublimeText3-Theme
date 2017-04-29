@@ -20,27 +20,26 @@
 PackageResourceViewer 安装完毕后，在命令面板中输入：PackageResourceViewer:Open Resource 
 然后会列出配置文件目录。然后，我们选择 Material Theme 这个选项。这个时候，在 Packages 文件夹下会多出一个新的文件夹，那就是 Material Theme。接下来，我们的配置就在这个文件夹下来完成。
 编辑 Material Theme 文件夹下的 Material-Theme.tmTheme 文件，然后我们获取主面板的颜色 RGB, 用来配置菜单栏和其他位置的颜色，保持一致，我们的修改项如下：
-
-> sheet_container_control
-> title_bar
-> dialog
-> progress_bar_control
-> popup_control
-> auto_complete
-> mini_quick_panel_row
-> quick_panel
-> quick_panel_row
-> tabset_control
-> tab_control
-> sidebar_container
-> sidebar_tree
-> tree_row
-> scroll_bar_control
-> status_bar
-> status_button
-> panel_control
-> button_control
-> icon_button_control
+- sheet_container_control 
+- title_bar 
+- dialog
+- progress_bar_control
+- popup_control
+- auto_complete
+- mini_quick_panel_row
+- quick_panel
+- quick_panel_row
+- tabset_control
+- tab_control
+- sidebar_container
+- sidebar_tree
+- tree_row
+- scroll_bar_control
+- status_bar
+- status_button
+- panel_control
+- button_control
+- icon_button_control
 
 整个配置完成后，效果如下
 

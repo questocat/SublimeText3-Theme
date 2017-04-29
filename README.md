@@ -43,4 +43,4 @@ PackageResourceViewer 安装完毕后，在命令面板中输入：PackageResour
 
 整个配置完成后，效果如下
 
-<img src="https://github.com/emanci/SublimeText3-Theme/blob/master/primer-dark.png" width = "450" alt="primer-dark" align=center />
+<img src="https://github.com/emanci/SublimeText3-Theme/blob/master/primer-dark.png" width = "500" alt="primer-dark" align=center />
